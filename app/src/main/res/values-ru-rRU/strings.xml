@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Учет коммунальных платежей</string>
+    <string name="search_type">тип: все</string>
+    <string name="field_hint_date_time">нажмите чтобы выбрать</string>
+    <string name="title_add_edit_date_and_time">Дата и время:</string>
+    <string name="title_is_counter_available">Наличие счетчика:</string>
+    <string name="title_meter_reading">Показания счетчика:</string>
+    <string name="title_payment_amount">Сумма оплаты:</string>
+    <string name="button_add_edit_add">Добавить</string>
+    <string name="statistic_by_year_quarter">Статистика за год/квартал</string>
+    <string name="title_payment_type">Тип платежа:</string>
+    <string name="header_statistic_by_year_quarter">Статистика за год/квартал</string>
+    <string name="content_description_add_new_note">добавить запись</string>
+    <string name="button_add_edit_edit">Сохранить</string>
+    <string name="header_add_edit_add">Добавить новую запись</string>
+    <string name="header_add_edit_edit">Редактирование</string>
+    <string name="title_is_counter_available_yes">Да</string>
+    <string name="title_is_counter_available_no">Нет</string>
+    <string name="date_time_error">ожидается дата в прошлом</string>
+    <string name="meter_reading_error">показания счетчика должны быть больше 0</string>
+    <string name="payment_amount_error">сумма оплаты должна быть больше 0</string>
+    <string name="payment_type_error">нужно выбрать тип платежа</string>
+    <string name="title_previous_meter_reading">Предыдущие показания счетчика:</string>
+</resources>

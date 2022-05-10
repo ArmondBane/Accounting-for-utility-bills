@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Accounting-for-utility-bills</string>
+    <string name="search_type">type: all</string>
+    <string name="field_hint_date_time">tap to pick date</string>
+    <string name="title_add_edit_date_and_time">Date and time:</string>
+    <string name="title_payment_type">Payment type:</string>
+    <string name="title_is_counter_available">Is counter available:</string>
+    <string name="title_meter_reading">Meter reading:</string>
+    <string name="title_payment_amount">Payment amount:</string>
+    <string name="button_add_edit_add">Add</string>
+    <string name="statistic_by_year_quarter">Statistic by year/quarter</string>
+    <string name="header_statistic_by_year_quarter">Statistic by year/quarter</string>
+    <string name="content_description_add_new_note">add new note</string>
+    <string name="button_add_edit_edit">Save</string>
+    <string name="header_add_edit_add">Adding new note</string>
+    <string name="header_add_edit_edit">Editing note</string>
+    <string name="title_is_counter_available_yes">Yes</string>
+    <string name="title_is_counter_available_no">No</string>
+    <string name="rub" translatable="false">%.2f ₽</string>
+    <string name="date_time_error">require date in past</string>
+    <string name="meter_reading_error">meter reading should more than 0</string>
+    <string name="payment_amount_error">payment amount should be more than 0</string>
+    <string name="payment_type_error">you should choose payment type</string>
+    <string name="title_previous_meter_reading">previous meter reading</string>
+    <string name="hint_number_value" translatable="false">0</string>
 </resources>
